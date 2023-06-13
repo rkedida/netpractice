@@ -22,7 +22,14 @@ each with a different network diagram and a set of issues to solve.
 
 ## Getting Started
 
-First, download the file attached to the project’s page. Extract the files in a preferred directory.
+First, clone the reposotory. 
+```sh
+git clone https://github.com/rkedida/netpractice.git
+```
+
+Inside the reposotory is a .tgz file.
+
+Extract the .tgz file.
 
 To start the exercise interface, run the `index.html` file, which should open in your default web browser.
 
